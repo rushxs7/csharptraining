@@ -1,0 +1,15 @@
+/home/rushil/Desktop/csharptraining/bin/Debug/net6.0/csharptraining
+/home/rushil/Desktop/csharptraining/bin/Debug/net6.0/csharptraining.deps.json
+/home/rushil/Desktop/csharptraining/bin/Debug/net6.0/csharptraining.runtimeconfig.json
+/home/rushil/Desktop/csharptraining/bin/Debug/net6.0/csharptraining.dll
+/home/rushil/Desktop/csharptraining/bin/Debug/net6.0/csharptraining.pdb
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.csproj.AssemblyReference.cache
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.GeneratedMSBuildEditorConfig.editorconfig
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.AssemblyInfoInputs.cache
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.AssemblyInfo.cs
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.csproj.CoreCompileInputs.cache
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.dll
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/refint/csharptraining.dll
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.pdb
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/csharptraining.genruntimeconfig.cache
+/home/rushil/Desktop/csharptraining/obj/Debug/net6.0/ref/csharptraining.dll
